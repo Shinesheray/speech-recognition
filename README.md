@@ -1,3 +1,7 @@
+# React speech recognition application
+
+To Test out the functionality click the link to see it live! https://speech-recognition-ashen.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
